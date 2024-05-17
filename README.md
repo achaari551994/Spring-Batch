@@ -25,7 +25,6 @@ This project demonstrates how to use Spring Batch to upload a CSV file and save 
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/yourusername/spring-batch-csv-upload.git
-cd spring-batch-csv-upload
+git clone https://github.com/achaari551994/Spring-Batch.git
+cd Spring-Batch
 ```
-fnekfnerfenfjeknje
