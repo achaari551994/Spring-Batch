@@ -8,7 +8,7 @@
 ## Overview
 This project demonstrates how to use Spring Batch to upload a CSV file and save a list of students to a PostgreSQL database. It uses Java 17, Spring Data JPA, and PostgreSQL.
 
-![Screenshot](images/screenshot.png)
+<img src="https://miro.medium.com/v2/resize:fit:1400/1*bYPPzvrVk4Y91ZTEp1TPUQ.png"/>
 
 ## Features
 - Upload CSV file containing student information
@@ -20,7 +20,6 @@ This project demonstrates how to use Spring Batch to upload a CSV file and save 
 - Java 17
 - Maven 3.6+
 - PostgreSQL 16
-- Docker (optional, for containerized PostgreSQL)
 
 ## Getting Started
 
@@ -28,3 +27,5 @@ This project demonstrates how to use Spring Batch to upload a CSV file and save 
 ```sh
 git clone https://github.com/yourusername/spring-batch-csv-upload.git
 cd spring-batch-csv-upload
+```
+fnekfnerfenfjeknje
